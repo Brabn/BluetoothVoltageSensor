@@ -83,7 +83,7 @@ Immediately after receiving the command to start measurement, the controller sig
 
 ## Wiring diagram
 
-!(Bluetooth voltage sensor wiring diagram)[Pictures/BluetoothVoltageSensor.WiringDiagram.jpg]
+!(Bluetooth voltage sensor wiring diagram)[/Pictures/BluetoothVoltageSensor.WiringDiagram.jpg]
  
 ## Further system improvements
 - [ ] Adding measurement channels (up to 4 in total)
