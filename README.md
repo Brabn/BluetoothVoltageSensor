@@ -36,7 +36,9 @@ When a `n` request is received (request for all parameters), the following strin
 * `U:12.03`	– is the supply voltage 12.03 V
 * `T:22.3` 	– temperature 22.3°C
 * `Q:0.33325`– measured voltage 0.33325 V
+
 When a `q` request is received (a voltage-only request), the following string is sent in response:
+
 `Q:0.33325`	– measured voltage 0.33325 V
 
 Immediately after receiving the command to start measurement, the controller signals the start of the measurement process by issuing a 5V logical signal at input D5. This signal can be used to connect an alarm LED or connected to another automation system
