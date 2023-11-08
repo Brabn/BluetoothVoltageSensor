@@ -14,7 +14,7 @@ The measurement is carried out using a high-precision ADC converter ADS1115 conn
 
 The ADC has several measurement modes, which differ in accuracy and measurement duration. By default, the firmware is configured to measure with a multiplier of “8x”, which corresponds to the measurement range +/-0.512V and the measurement limit per 1 bit = 0.25mV.
 
-> [ !Warning]
+> [ !WARNING]
 > For the x8 multiplier set, the measured voltage should not go beyond +/-0.8V (0.512+60%). If exceeded, the ADC will fail. To measure higher voltages, you must first change the multiplier value (which will correspondingly reduce the measurement accuracy) in the firmware before turning on the system
 
 After power is applied to the system, a pause of 1 second is maintained (`ADSPause` variable, default 1000ms) necessary for the measured equipment to turn on correctly.
