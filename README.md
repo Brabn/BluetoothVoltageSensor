@@ -75,11 +75,11 @@ Immediately after receiving the command to start measurement, the controller sig
 
 ## Components
 
-* Arduino Nano    				– 1pcs.
+* [Arduino Nano](https://amzn.to/3Mx40pK)   				– 1pcs.
 * [Module ADC ADS1115](https://amzn.to/47lVBxj)			– 1pcs.
-* Temperature sensor DS18B20	– 1pcs.
-* Bluetooth module HC-06		- 1pcs.
-* DC-DC Converter MP1584		- 1pcs.
+* [Temperature sensor DS18B20](https://amzn.to/3SwYC9R) 	– 1pcs.
+* [Bluetooth module HC-06](https://amzn.to/3QZdTiV)	- 1pcs.
+* [DC-DC Converter MP1584]( https://amzn.to/3sgnng9)		- 1pcs.
 
 ## Wiring diagram
 
