@@ -2,7 +2,7 @@
 	Modified firmware for connecting ADS1115 ADC
 	to the circuit with temperature sensor DS18B20 and transmission
 	data via bluetooth
-	version 1.1 dated 02.08.2017
+	version 1.2 dated 02.08.2017
 	
 */
 
