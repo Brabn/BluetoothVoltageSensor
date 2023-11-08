@@ -76,7 +76,7 @@ Immediately after receiving the command to start measurement, the controller sig
 ## Components
 
 * Arduino Nano    				– 1pcs.
-* !(Module ADC ADS1115)[https://amzn.to/47lVBxj]			– 1pcs.
+* [Module ADC ADS1115](https://amzn.to/47lVBxj)			– 1pcs.
 * Temperature sensor DS18B20	– 1pcs.
 * Bluetooth module HC-06		- 1pcs.
 * DC-DC Converter MP1584		- 1pcs.
@@ -84,6 +84,7 @@ Immediately after receiving the command to start measurement, the controller sig
 ## Wiring diagram
 
 ![Bluetooth voltage sensor wiring diagram](Pictures/BluetoothVoltageSensor.WiringDiagram.jpg)
+
  
 ## Further system improvements
 - [ ] Adding measurement channels (up to 4 in total)
