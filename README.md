@@ -1,5 +1,5 @@
 # Bluetooth Voltage Sensor
-Voltage and temperature monitoring system with readings transmitted via Bluetooth
+[Voltage and temperature monitoring system](https://techi-news.com/Projects/Voltage-and-temperature-monitoring-with-transmition-via-Bluetooth) with readings transmitted via Bluetooth
 
 Designed for measuring voltage with high accuracy and transmitting results wirelessly to a monitoring system (PC, Mobile phone or other controller equipped with a Bluetooth receiver).
 
